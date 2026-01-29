@@ -22,7 +22,7 @@ Looking to enhance your frontend portfolio? Let's build a modern animated login/
 *See the animations in action without downloading anything!*
 
 **💾 GitHub Repository:**  
-👉 [**Get Full Source Code**](https://github.com/python-expert/animated-login-form)  
+👉 [**Get Full Source Code**](https://github.com/pythonexperthub/Animated-Login-Signup-Form-Tutorial/)  
 ⭐ **Star the repo** to support more free tutorials!
 
 ---
